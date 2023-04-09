@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "production": "pm2 start index.js --binance-fat-finger-bot"
+    "production": "pm2 start index.js --name binance-fat-finger-bot"
   },
   "keywords": [],
   "author": "",
